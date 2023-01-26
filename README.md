@@ -1,5 +1,5 @@
 # TheWitcher
-![Preview]![image](https://user-images.githubusercontent.com/123672982/214968125-f855ecb3-152f-4724-8ebb-75d44f872768.png)
+![image](https://user-images.githubusercontent.com/123672982/214968125-f855ecb3-152f-4724-8ebb-75d44f872768.png)
 
 
 >## 
